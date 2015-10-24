@@ -155,12 +155,12 @@ SKILL_20150317_000154	[Combat Soldiers] Combatants attack 2
 SKILL_20150317_000155	Zombie Archer skill.
 SKILL_20150317_000156	Wheelchair Zombie Normal attack.
 SKILL_20150317_000157	Wheelchair Zombie skills.
-SKILL_20150317_000158	Wall of Flame
-SKILL_20150317_000159	Create a Wall of Flame that damages enemies upon contact.
-SKILL_20150317_000160	Mine explosion
-SKILL_20150317_000161	Detonate explosive mines.
-SKILL_20150317_000162	Toxic explosion
-SKILL_20150317_000163	Detonate toxic mines.
+SKILL_20150317_000158	Parede de Chamas.
+SKILL_20150317_000159	Cria uma Parede de Chamas que danifica inimigos que entrarem em contado.
+SKILL_20150317_000160	Mina explosiva.
+SKILL_20150317_000161	Detona minas explosivas.
+SKILL_20150317_000162	Explosão Toxica.
+SKILL_20150317_000163	Detona minas Toxicas.
 SKILL_20150317_000164	Claymore explosion
 SKILL_20150317_000165	Claymore explosion.
 SKILL_20150317_000166	Jump Attack
